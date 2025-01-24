@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DengY11
-- 🌱 I’m currently learning compiler and system
+- 👋 Hi, I’m @DengY11 from SWU in China
+- 🌱 I’m currently interested in compiler and operating system
 
 <!---
 DengY11/DengY11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
