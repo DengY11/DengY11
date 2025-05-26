@@ -1,6 +1,6 @@
- *"Aiming to create an open-source database that's slower than Redis but more cumbersome than MySQL before retirement"*
+ *Aiming to create an open-source database that's slower than Redis but more cumbersome than MySQL before retirement*
   
- *"If you see a rm -rf /* commit, my cat was practicing keyboard shortcuts"*  😼
+ *If you see a rm -rf /* commit, my lizard was practicing keyboard shortcuts*  
 
  *like little animals, run, photograph, guitar*
 <!---
